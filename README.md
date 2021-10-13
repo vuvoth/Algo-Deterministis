@@ -1,2 +1,2 @@
-# Algo Deterministic
+# Algo Deterministics
 
