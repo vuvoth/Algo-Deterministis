@@ -1,0 +1,10 @@
+{
+  "name": "algorand-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vu Vo <vu.voth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "algosdk": "^1.12.0"
+  }
+}

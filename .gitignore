@@ -1,0 +1,4 @@
+node_modules
+accountConfig.json
+other.json
+.DS_Store
